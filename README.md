@@ -3,6 +3,24 @@ ds-template
 
 The project is a template for building data science code repositories
 
+How to
+------------
+__Create venv and install project requirements:__
+run the following command
+```ssh
+make create_environment
+```
+
+
+__Install dependencies :__
+run the following command
+```ssh
+make requirements
+```
+
+Thats it ❤️
+
+
 Project Organization
 ------------
 
