@@ -18,7 +18,7 @@ run the following command
 make requirements
 ```
 
-Thats it ❤️
+That's it ❤️
 
 
 Project Organization
